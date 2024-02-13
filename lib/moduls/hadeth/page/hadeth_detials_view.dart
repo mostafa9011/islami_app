@@ -66,7 +66,7 @@ class HadethDetailsView extends StatelessWidget {
                     : const Color(0xff141A2E),
                 borderRadius: BorderRadius.circular(25),
               ),
-              child: Column(
+              child: ListView(
                 children: [
                   Text(
                     args.title,
