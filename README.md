@@ -49,47 +49,47 @@ To run this project locally, follow these steps:
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <h3>Splash Screen</h3>
-    <img src="https://github.com/mostafa9011/islami_app/blob/main/assets/screenshots/1.jpg?raw=true" alt="Splash" width="250"/>
+    <img src="https://github.com/mostafa9011/islami_app/blob/develop/assets/screenshots/1.jpg?raw=true" alt="Splash" width="250"/>
   </div>
   <div style="flex: 1; min-width: 250px;">
     <h3>Home Screen</h3>
-    <img src="https://github.com/mostafa9011/islami_app/blob/main/assets/screenshots/2.jpg?raw=true" alt="Home Screen" width="250"/>
+    <img src="https://github.com/mostafa9011/islami_app/blob/develop/assets/screenshots/2.jpg?raw=true" alt="Home Screen" width="250"/>
   </div>
 </div>
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <h3>Hadith</h3>
-    <img src="https://github.com/mostafa9011/islami_app/blob/main/assets/screenshots/3.jpg?raw=true" alt="Hadith" width="250"/>
+    <img src="https://github.com/mostafa9011/islami_app/blob/develop/assets/screenshots/3.jpg?raw=true" alt="Hadith" width="250"/>
   </div>
   <div style="flex: 1; min-width: 250px;">
     <h3>Tasbih</h3>
-    <img src="https://github.com/mostafa9011/islami_app/blob/main/assets/screenshots/4.jpg?raw=true" alt="Home Screen" width="250"/>
+    <img src="https://github.com/mostafa9011/islami_app/blob/develop/assets/screenshots/4.jpg?raw=true" alt="Home Screen" width="250"/>
   </div>
 </div>
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <h3>Radio</h3>
-    <img src="https://github.com/mostafa9011/islami_app/blob/main/assets/screenshots/5.jpg?raw=true" alt="Radio" width="250"/>
+    <img src="https://github.com/mostafa9011/islami_app/blob/develop/assets/screenshots/5.jpg?raw=true" alt="Radio" width="250"/>
   </div>
   <div style="flex: 1; min-width: 250px;">
     <h3>Settings</h3>
-    <img src="https://github.com/mostafa9011/islami_app/blob/main/assets/screenshots/6.jpg?raw=true" alt="Settings" width="250"/>
+    <img src="https://github.com/mostafa9011/islami_app/blob/develop/assets/screenshots/6.jpg?raw=true" alt="Settings" width="250"/>
   </div>
 </div>
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <h3>Theem</h3>
-    <img src="https://github.com/mostafa9011/islami_app/blob/main/assets/screenshots/7.jpg?raw=true" alt="Theem" width="250"/>
+    <img src="https://github.com/mostafa9011/islami_app/blob/develop/assets/screenshots/7.jpg?raw=true" alt="Theem" width="250"/>
   </div>
   <div style="flex: 1; min-width: 250px;">
     <h3>Qurane</h3>
-    <img src="https://github.com/mostafa9011/islami_app/blob/main/assets/screenshots/8.jpg?raw=true" alt="Qurane" width="250"/>
+    <img src="https://github.com/mostafa9011/islami_app/blob/develop/assets/screenshots/8.jpg?raw=true" alt="Qurane" width="250"/>
   </div>
 </div>
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <h3>Hadith Shareif</h3>
-    <img src="https://github.com/mostafa9011/islami_app/blob/main/assets/screenshots/9.jpg?raw=true" alt="Hadith Shareif" width="250"/>
+    <img src="https://github.com/mostafa9011/islami_app/blob/develop/assets/screenshots/9.jpg?raw=true" alt="Hadith Shareif" width="250"/>
   </div>
 </div>
 
