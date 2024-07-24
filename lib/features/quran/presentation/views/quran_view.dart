@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:islam_app_c10_sun_4pm/moduls/quran/page/quran_details.dart';
-import 'package:islam_app_c10_sun_4pm/moduls/quran/widgets/sura_title_widget.dart';
+import 'package:islam_app_c10_sun_4pm/features/quran/presentation/views/quran_details.dart';
+import 'package:islam_app_c10_sun_4pm/features/quran/presentation/views/widgets/sura_title_widget.dart';
 
 class QuranView extends StatelessWidget {
   final List<String> suraNames = [

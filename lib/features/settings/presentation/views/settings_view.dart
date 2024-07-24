@@ -4,8 +4,8 @@ import 'package:animated_custom_dropdown/custom_dropdown.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:islam_app_c10_sun_4pm/cubits/cubit.dart';
-import 'package:islam_app_c10_sun_4pm/cubits/states.dart';
+import 'package:islam_app_c10_sun_4pm/features/settings/manager/cubit.dart';
+import 'package:islam_app_c10_sun_4pm/features/settings/manager/states.dart';
 
 class SettingsView extends StatelessWidget {
   const SettingsView({super.key});

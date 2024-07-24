@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:islam_app_c10_sun_4pm/cubits/cubit.dart';
-import 'package:islam_app_c10_sun_4pm/cubits/states.dart';
+import 'package:islam_app_c10_sun_4pm/features/settings/manager/cubit.dart';
+import 'package:islam_app_c10_sun_4pm/features/settings/manager/states.dart';
 
 class TasbehView extends StatefulWidget {
   const TasbehView({super.key});

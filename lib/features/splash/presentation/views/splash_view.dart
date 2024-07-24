@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:islam_app_c10_sun_4pm/cubits/cubit.dart';
-import 'package:islam_app_c10_sun_4pm/cubits/states.dart';
-import 'package:islam_app_c10_sun_4pm/layout/layout_view.dart';
+import 'package:islam_app_c10_sun_4pm/features/settings/manager/cubit.dart';
+import 'package:islam_app_c10_sun_4pm/features/settings/manager/states.dart';
+import 'package:islam_app_c10_sun_4pm/features/layout/presentation/layout_view.dart';
 
 class SplashView extends StatefulWidget {
   static const String routeName = "/";
